@@ -1,0 +1,8 @@
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\09.PlayIntDoubleString\bin\Debug\09.PlayIntDoubleString.exe.config
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\09.PlayIntDoubleString\bin\Debug\09.PlayIntDoubleString.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\09.PlayIntDoubleString\bin\Debug\09.PlayIntDoubleString.pdb
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\09.PlayIntDoubleString\obj\Debug\09.PlayIntDoubleString.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\09.PlayIntDoubleString\obj\Debug\09.PlayIntDoubleString.pdb
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\09.PlayIntDoubleString\bin\Debug\09.PlayIntDoubleString.exe.config
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\09.PlayIntDoubleString\obj\Debug\09.PlayIntDoubleString.exe
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\09.PlayIntDoubleString\obj\Debug\09.PlayIntDoubleString.pdb

@@ -1,0 +1,5 @@
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\01.ExchangeIfGreater\bin\Debug\01.ExchangeIfGreater.exe.config
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\01.ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.exe.config
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\01.ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.exe.config
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\01.ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.exe.config
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements (1)\01.ExchangeIfGreater\bin\Debug\_01.ExchangeIfGreater.exe.config

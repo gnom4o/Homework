@@ -1,0 +1,10 @@
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\17.BitKiller\bin\Debug\17.BitKiller.exe.config
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements (1)\17.BitKiller\bin\Debug\17.BitKiller.exe.config
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\17.BitKiller\bin\Debug\17.BitKiller.exe.config
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\17.BitKiller\bin\Debug\17.BitKiller.exe
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\17.BitKiller\bin\Debug\17.BitKiller.pdb
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\17.BitKiller\obj\Debug\17.BitKiller.csprojResolveAssemblyReference.cache
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\17.BitKiller\obj\Debug\17.BitKiller.exe
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\17.BitKiller\obj\Debug\17.BitKiller.pdb
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\17.BitKiller\obj\Debug\17.BitKiller.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\17.BitKiller\obj\Debug\17.BitKiller.pdb

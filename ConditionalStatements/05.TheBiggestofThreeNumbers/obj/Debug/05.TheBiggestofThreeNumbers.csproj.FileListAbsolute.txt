@@ -1,0 +1,9 @@
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\05.TheBiggestofThreeNumbers\bin\Debug\05.TheBiggestofThreeNumbers.exe.config
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\05.TheBiggestofThreeNumbers\bin\Debug\05.TheBiggestofThreeNumbers.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\05.TheBiggestofThreeNumbers\bin\Debug\05.TheBiggestofThreeNumbers.pdb
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\05.TheBiggestofThreeNumbers\obj\Debug\05.TheBiggestofThreeNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\05.TheBiggestofThreeNumbers\obj\Debug\05.TheBiggestofThreeNumbers.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\05.TheBiggestofThreeNumbers\obj\Debug\05.TheBiggestofThreeNumbers.pdb
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\05.TheBiggestofThreeNumbers\bin\Debug\05.TheBiggestofThreeNumbers.exe.config
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\05.TheBiggestofThreeNumbers\obj\Debug\05.TheBiggestofThreeNumbers.exe
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\05.TheBiggestofThreeNumbers\obj\Debug\05.TheBiggestofThreeNumbers.pdb

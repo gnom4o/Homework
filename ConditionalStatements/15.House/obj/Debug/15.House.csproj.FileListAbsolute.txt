@@ -1,0 +1,12 @@
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\15.House\bin\Debug\15.House.exe.config
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\15.House\bin\Debug\15.House.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\15.House\bin\Debug\15.House.pdb
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\15.House\obj\Debug\15.House.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\15.House\obj\Debug\15.House.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\15.House\obj\Debug\15.House.pdb
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\15.House\bin\Debug\15.House.exe.config
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\15.House\obj\Debug\15.House.exe
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\15.House\obj\Debug\15.House.pdb
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\15.House\bin\Debug\15.House.exe.config
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\15.House\obj\Debug\15.House.exe
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\15.House\obj\Debug\15.House.pdb

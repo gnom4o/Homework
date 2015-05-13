@@ -1,0 +1,12 @@
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.pdb
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.csprojResolveAssemblyReference.cache
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.pdb
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.exe
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.pdb
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\10.BeerTime\bin\Debug\10.BeerTime.exe.config
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.exe
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\10.BeerTime\obj\Debug\10.BeerTime.pdb

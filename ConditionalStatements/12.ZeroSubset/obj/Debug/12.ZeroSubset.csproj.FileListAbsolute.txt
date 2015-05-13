@@ -1,0 +1,13 @@
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.csprojResolveAssemblyReference.cache
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.pdb
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements (1)\12.ZeroSubset\bin\Debug\12.ZeroSubset.exe.config
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements (1)\12.ZeroSubset\obj\Debug\12.ZeroSubset.exe
+C:\Users\angelvla\Google Диск\Projects\ConditionalStatements (1)\12.ZeroSubset\obj\Debug\12.ZeroSubset.pdb

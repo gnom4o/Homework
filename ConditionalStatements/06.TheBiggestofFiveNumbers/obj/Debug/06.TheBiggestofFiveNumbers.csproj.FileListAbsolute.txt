@@ -1,0 +1,8 @@
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\06.TheBiggestofFiveNumbers\bin\Debug\06.TheBiggestofFiveNumbers.exe.config
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\06.TheBiggestofFiveNumbers\bin\Debug\06.TheBiggestofFiveNumbers.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\06.TheBiggestofFiveNumbers\bin\Debug\06.TheBiggestofFiveNumbers.pdb
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\06.TheBiggestofFiveNumbers\obj\Debug\06.TheBiggestofFiveNumbers.exe
+C:\Users\Vlad\Google Диск\Projects\ConditionalStatements\06.TheBiggestofFiveNumbers\obj\Debug\06.TheBiggestofFiveNumbers.pdb
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\06.TheBiggestofFiveNumbers\bin\Debug\06.TheBiggestofFiveNumbers.exe.config
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\06.TheBiggestofFiveNumbers\obj\Debug\06.TheBiggestofFiveNumbers.exe
+C:\Users\Vlad\Downloads\Homework-gnom4o-Conditional Statements\ConditionalStatements\06.TheBiggestofFiveNumbers\obj\Debug\06.TheBiggestofFiveNumbers.pdb
